@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace lab1.Controllers
 {
 	public class HomeController : Controller
